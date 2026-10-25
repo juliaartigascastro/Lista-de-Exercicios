@@ -1,0 +1,15 @@
+import java.util.Scanner;
+import java.util.Locale;
+public class Exercicio (
+public static void main(String[] args) {
+Scanner entrada new Scanner(System.in).usetocale(Locale.US);
+System.out.print("Primeira nota (0 a 10): ");
+double notal entrada.nextDouble();
+System.out.print("Segunda nota (0 a 10): ")
+double notal entrada.nextDouble();
+if (notal <|| notal 10 || nota2 < || nota2 > 10) (
+System.out.println("Notas inválidas.");
+)elas (
+double media (notal nota2)/2;
+System.out.printf("Media: 1FXn", modia);
+entrada.close();
